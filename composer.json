@@ -11,5 +11,10 @@
             "email": "dreamkuo@126.com"
         }
     ],
-    "require": {}
+        "version": "1.4.0",
+        "license": "MIT",
+        "require":{
+            "php": ">=7.1.0"
+    
+        }
 }

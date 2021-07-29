@@ -1,0 +1,15 @@
+{
+    "name": "dreamkuo/php_print",
+    "autoload": {
+        "psr-4": {
+            "Dreamkuo\\PhpPrint\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ygk",
+            "email": "dreamkuo@126.com"
+        }
+    ],
+    "require": {}
+}
